@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="name">Nome completo</string>
+    <string name="phone">Telefone</string>
+    <string name="exPhone">Ex.: 12-93456-7890</string>
+    <string name="email">E-mail</string>
+    <string name="checkedText">Ingressar na lista de e-mail?</string>
+    <string name="genderMale">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="city">Cidade</string>
+    <string name="clearFields">Limpar</string>
+    <string name="save">Salvar</string>
+</resources>
